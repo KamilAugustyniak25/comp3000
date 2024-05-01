@@ -26,4 +26,4 @@ This concise yet impactful format ensures that players swiftly grasp the core co
 By targeting students, a demographic poised at the intersection of learning and skill development, the project seamlessly aligns with its educational mandate, offering a safe and immersive platform for exploration within the virtual realm. 
 Through this innovative fusion of gaming and education, participants are empowered to not only recognize and mitigate online threats but also cultivate a deeper understanding of cybersecurity principles that will serve them well in an increasingly digitized world.</p>
 <br>
-<p>A YouTube video with short presentation of the game content: <a href="https://www.youtube.com/watch?v=RndrviRYKeM"></p>
+<p>A YouTube video with short presentation of the game content: https://www.youtube.com/watch?v=RndrviRYKeM
